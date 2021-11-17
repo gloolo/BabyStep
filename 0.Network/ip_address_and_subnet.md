@@ -48,3 +48,6 @@ then we got
 `*.*.*.10vvvvvv` | 62 | `*.*.*.10000000` as subnet address, `*.*.*.10111111` as broadcast address 
 `*.*.*.11vvvvvv` | 62 | `*.*.*.11000000` as subnet address, `*.*.*.11111111` as broadcast address 
 
+## Links
+* [Subnet Cheat Sheet – 24 Subnet Mask, 30, 26, 27, 29, and other IP Address CIDR Network References](https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/)
+
